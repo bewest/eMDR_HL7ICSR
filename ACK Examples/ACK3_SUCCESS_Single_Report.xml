@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl"?>
+<submission>
+  <coreId>ci1234567890123.3416@test_te2</coreId>
+  <batchId>1234567-20150602193500</batchId>
+  <dateEntered>Thu Jun 04 12:10:53 EDT 2015</dateEntered>
+  <numReportFailed>0</numReportFailed>
+  <numReportPassed>1</numReportPassed>
+  <report id="1234567-2015-23762">
+    <status>passed</status>
+  </report>
+</submission>

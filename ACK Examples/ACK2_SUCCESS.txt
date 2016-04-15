@@ -1,0 +1,7 @@
+MessageId: <608ced41fafd068d_-6044ab30_14ddf1fbcbc_-60b2@608ced41fafd068d_-6044ab30_14ddf1fbcbc_-60b1>
+CoreId: ci1234567890123.1382492@test_te1
+DateTime Receipt Generated: 06-10-2015, 16:36:44
+File Count: 1
+Directory Count: 2
+
+CDRH has received your submission
